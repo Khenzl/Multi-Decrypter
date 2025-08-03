@@ -15,7 +15,6 @@ echo "[*] Menginstal Python & Git..."
 pkg install python
 
 echo "[*] Menginstal pip dan modul Python..."
-pip install --upgrade pip
 pip install -r requirements.txt
 
 echo "[✓] Instalasi selesai!"
