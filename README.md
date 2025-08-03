@@ -1,5 +1,7 @@
 # 🔐 Multi-Decrypter - Termux Hash Cracker
 
+![Preview Wordlist-Zen](Images/Multi-Decrypter.jpg)
+
 **Multi-Decrypter** adalah tool berbasis Python di Termux untuk mendekripsi hash (MD5, SHA1, SHA256, dll) menggunakan wordlist lokal, API online, dan berbagai metode lainnya. Dibuat untuk ethical hacking dan edukasi keamanan siber.
 
 ---
