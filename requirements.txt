@@ -1,3 +1,6 @@
 requests
+beautifulsoup4
+argon2-cffi
+bycypt
 termcolor
 colorama
